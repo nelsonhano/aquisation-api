@@ -1,2 +1,5 @@
 {"level":"info","message":"Hello from Aquisitions Service","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [18/Oct/2025:00:42:15 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Oct/2025:01:02:25 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Oct/2025:01:02:51 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 200 32 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Oct/2025:01:03:48 +0000] \"GET /api/auth/sign-up HTTP/1.1\" 200 32 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
